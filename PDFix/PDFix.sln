@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFix", "PDFix\PDFix.csproj", "{BA416752-8CEB-494B-A6C0-C6FBE887B22C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA416752-8CEB-494B-A6C0-C6FBE887B22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA416752-8CEB-494B-A6C0-C6FBE887B22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA416752-8CEB-494B-A6C0-C6FBE887B22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA416752-8CEB-494B-A6C0-C6FBE887B22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98710D37-1AEF-458B-A41E-CFF1FE158953}
+	EndGlobalSection
+EndGlobal
