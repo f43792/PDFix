@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MuPDF.NET" Version="3.2.13-rc.1" />
+  </ItemGroup>
+
 </Project>
