@@ -1,0 +1,26 @@
+{
+  "hairlines": {
+    "narrowerThan": 0,
+    "replaceWith": 0.15,
+    "units": "Inches",
+    "includeType3": false,
+    "includePatterns": false,
+    "ignoreFilledShapes": true
+  },
+  "pageRange": {
+    "mode": "all",
+    "current": 1,
+    "from": null,
+    "to": null
+  },
+  "rules": {
+    "items": [
+      { "page": "1, 2, 3", "lineWidth": 0.25 },
+      { "page": ">=4", "lineWidth": 0.125 }
+    ]
+  },
+  "originalMode": "delete",
+  "renameSuffix": "_old",
+  "randomColors": false,
+  "saveLog": false
+}
