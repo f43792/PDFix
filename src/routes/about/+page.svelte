@@ -40,6 +40,11 @@
     {/if}
   </p>
   <p class="tagline">A simple line-width batch editor for PDFs.</p>
+  <p class="tagline">
+    Check for lastest version at: 
+    <a href="https://github.com/f43792/PDFix" target="_blank" rel="noreferrer">github</a>
+
+  </p>
   <p class="powered">
     PDF rendering powered by
     <a href="https://github.com/messense/mupdf-rs" target="_blank" rel="noreferrer">mupdf-rs</a>
